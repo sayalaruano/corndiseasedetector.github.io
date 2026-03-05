@@ -1,6 +1,6 @@
 # Corn Disease Detector (CDD) Project
 
-![CDD](./img/img.001.png)
+![CDD](./img/cdd-logo.png)
 
 **Authors:** Juan Zurita, [Sebastián Ayala Ruano](https://sayalaruano.github.io/), Ximena Celi, Gilberto Rodríguez.   
 
